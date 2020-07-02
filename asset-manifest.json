@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/learning_gh-pages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/learning_gh-pages/static/js/main.fb26671d.chunk.js",
+    "main.js.map": "/learning_gh-pages/static/js/main.fb26671d.chunk.js.map",
+    "runtime-main.js": "/learning_gh-pages/static/js/runtime-main.64737787.js",
+    "runtime-main.js.map": "/learning_gh-pages/static/js/runtime-main.64737787.js.map",
+    "static/js/2.35a2875b.chunk.js": "/learning_gh-pages/static/js/2.35a2875b.chunk.js",
+    "static/js/2.35a2875b.chunk.js.map": "/learning_gh-pages/static/js/2.35a2875b.chunk.js.map",
+    "index.html": "/learning_gh-pages/index.html",
+    "precache-manifest.5ee259c51e6bebe65f847d79c1758a10.js": "/learning_gh-pages/precache-manifest.5ee259c51e6bebe65f847d79c1758a10.js",
+    "service-worker.js": "/learning_gh-pages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/learning_gh-pages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.35a2875b.chunk.js.LICENSE.txt": "/learning_gh-pages/static/js/2.35a2875b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/learning_gh-pages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64737787.js",
+    "static/js/2.35a2875b.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fb26671d.chunk.js"
+  ]
+}
